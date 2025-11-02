@@ -72,7 +72,7 @@ return {
 	{ "bufferline.nvim", enabled = false },
 
 	-- git-signs
-	{ "gitsigns.nvim", enabled = false },
+	--	{ "gitsigns.nvim", enabled = false },
 
 	-- format tol
 	-- { "conform.nvim", enabled = false },
