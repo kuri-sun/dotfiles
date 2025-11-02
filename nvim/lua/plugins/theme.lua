@@ -1,7 +1,7 @@
 return {
 	{
 		"kuri-sun/yoda.nvim",
-		-- dir = vim.fn.stdpath("config") .. "/lua/yoda.nvim",
+		dir = "~/Projects/yoda.nvim",
 		name = "yoda",
 		lazy = false,
 		priority = 100,
