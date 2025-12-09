@@ -1,6 +1,6 @@
 # dotfiles
 
-![desktop preview](assets/yoda-desktop.png)
+![desktop preview](assets/default.png)
 
 ## Info
 
