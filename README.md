@@ -1,10 +1,6 @@
 # dotfiles
 
-![desktop preview](assets/default.png)
-
-![hyprland_with_code preview](assets/code.png)
-
-![hyprland_logout preview](assets/logout.png)
+![desktop preview](assets/yoda-desktop.png)
 
 ## Info
 
