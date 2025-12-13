@@ -1,7 +1,7 @@
 /* Yoda Theme Color Palette */
 * {
   all: unset;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Orbitron", sans-serif;
   font-size: 15px;
   color: #b9f6ca;
 }
@@ -58,6 +58,7 @@
   border: none;
   background: transparent;
   padding: 12px;
+  min-width: 200px;
 }
 
 .weather-icon {
@@ -72,6 +73,7 @@
   color: #00ff99;
   letter-spacing: 1px;
   margin-bottom: 2px;
+  min-width: 120px;
 }
 
 .weather-temp {
